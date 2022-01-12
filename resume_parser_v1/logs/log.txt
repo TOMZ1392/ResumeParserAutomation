@@ -1,0 +1,12 @@
+-->Successfully Parsed: resume_here/Brendan_Herger_Resume.pdf
+
+-->Successfully Parsed: resume_here/john_smith.pdf
+
+
+!!>Error: Resume parsing failed for:resume_here/Layla_Martin_Resume.pdf
+
+-->Successfully Parsed: resume_here/resume_Meyer.pdf
+
+-->Successfully Parsed: resume_here/SGresume-1.pdf
+
+Failure count:1
